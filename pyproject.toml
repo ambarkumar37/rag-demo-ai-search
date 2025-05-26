@@ -1,0 +1,14 @@
+[project]
+name = "rag-demo-pytalista"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-ai-inference>=1.0.0b9",
+    "azure-core>=1.34.0",
+    "azure-search-documents>=11.5.2",
+    "dotenv>=0.9.9",
+    "openai>=1.82.0",
+    "tiktoken>=0.9.0",
+]

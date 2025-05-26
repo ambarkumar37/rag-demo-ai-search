@@ -1,0 +1,1752 @@
+[
+    {
+        "book": "Introductory",
+        "book_name": "Introductory",
+        "chapter": "I_a",
+        "chapter_name": "Introductory",
+        "file": "book_Introductory_chapter_I_a.txt"
+    },
+    {
+        "book": "Introductory",
+        "book_name": "Introductory",
+        "chapter": "I_b",
+        "chapter_name": "Introductory",
+        "file": "book_Introductory_chapter_I_b.txt"
+    },
+    {
+        "book": "Introductory",
+        "book_name": "Introductory",
+        "chapter": "I_c",
+        "chapter_name": "Introductory",
+        "file": "book_Introductory_chapter_I_c.txt"
+    },
+    {
+        "book": "Introductory",
+        "book_name": "Introductory",
+        "chapter": "I_d",
+        "chapter_name": "Introductory",
+        "file": "book_Introductory_chapter_I_d.txt"
+    },
+    {
+        "book": "Introductory",
+        "book_name": "Introductory",
+        "chapter": "I_e",
+        "chapter_name": "Introductory",
+        "file": "book_Introductory_chapter_I_e.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "I_a",
+        "chapter_name": "The current doctrine of wages\u2014its insufficiency",
+        "file": "book_I_chapter_I_a.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "I_b",
+        "chapter_name": "The current doctrine of wages\u2014its insufficiency",
+        "file": "book_I_chapter_I_b.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "I_c",
+        "chapter_name": "The current doctrine of wages\u2014its insufficiency",
+        "file": "book_I_chapter_I_c.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "I_d",
+        "chapter_name": "The current doctrine of wages\u2014its insufficiency",
+        "file": "book_I_chapter_I_d.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "I_e",
+        "chapter_name": "The current doctrine of wages\u2014its insufficiency",
+        "file": "book_I_chapter_I_e.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "I_f",
+        "chapter_name": "The current doctrine of wages\u2014its insufficiency",
+        "file": "book_I_chapter_I_f.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "II_a",
+        "chapter_name": "The meaning of the terms",
+        "file": "book_I_chapter_II_a.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "II_b",
+        "chapter_name": "The meaning of the terms",
+        "file": "book_I_chapter_II_b.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "II_c",
+        "chapter_name": "The meaning of the terms",
+        "file": "book_I_chapter_II_c.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "II_d",
+        "chapter_name": "The meaning of the terms",
+        "file": "book_I_chapter_II_d.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "II_e",
+        "chapter_name": "The meaning of the terms",
+        "file": "book_I_chapter_II_e.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "II_f",
+        "chapter_name": "The meaning of the terms",
+        "file": "book_I_chapter_II_f.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "II_g",
+        "chapter_name": "The meaning of the terms",
+        "file": "book_I_chapter_II_g.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "II_h",
+        "chapter_name": "The meaning of the terms",
+        "file": "book_I_chapter_II_h.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "III_a",
+        "chapter_name": "Wages not drawn from capital, but produced by the labor",
+        "file": "book_I_chapter_III_a.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "III_b",
+        "chapter_name": "Wages not drawn from capital, but produced by the labor",
+        "file": "book_I_chapter_III_b.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "III_c",
+        "chapter_name": "Wages not drawn from capital, but produced by the labor",
+        "file": "book_I_chapter_III_c.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "III_d",
+        "chapter_name": "Wages not drawn from capital, but produced by the labor",
+        "file": "book_I_chapter_III_d.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "III_e",
+        "chapter_name": "Wages not drawn from capital, but produced by the labor",
+        "file": "book_I_chapter_III_e.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "III_f",
+        "chapter_name": "Wages not drawn from capital, but produced by the labor",
+        "file": "book_I_chapter_III_f.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "III_g",
+        "chapter_name": "Wages not drawn from capital, but produced by the labor",
+        "file": "book_I_chapter_III_g.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "III_h",
+        "chapter_name": "Wages not drawn from capital, but produced by the labor",
+        "file": "book_I_chapter_III_h.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "III_i",
+        "chapter_name": "Wages not drawn from capital, but produced by the labor",
+        "file": "book_I_chapter_III_i.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "IV_a",
+        "chapter_name": "The maintenance of laborers not drawn from capital",
+        "file": "book_I_chapter_IV_a.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "IV_b",
+        "chapter_name": "The maintenance of laborers not drawn from capital",
+        "file": "book_I_chapter_IV_b.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "IV_c",
+        "chapter_name": "The maintenance of laborers not drawn from capital",
+        "file": "book_I_chapter_IV_c.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "IV_d",
+        "chapter_name": "The maintenance of laborers not drawn from capital",
+        "file": "book_I_chapter_IV_d.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "IV_e",
+        "chapter_name": "The maintenance of laborers not drawn from capital",
+        "file": "book_I_chapter_IV_e.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "V_a",
+        "chapter_name": "The real functions of capital",
+        "file": "book_I_chapter_V_a.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "V_b",
+        "chapter_name": "The real functions of capital",
+        "file": "book_I_chapter_V_b.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "V_c",
+        "chapter_name": "The real functions of capital",
+        "file": "book_I_chapter_V_c.txt"
+    },
+    {
+        "book": "I",
+        "book_name": "WAGES AND CAPITAL",
+        "chapter": "V_d",
+        "chapter_name": "The real functions of capital",
+        "file": "book_I_chapter_V_d.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "I_a",
+        "chapter_name": "The Malthusian theory, its genesis and support",
+        "file": "book_II_chapter_I_a.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "I_b",
+        "chapter_name": "The Malthusian theory, its genesis and support",
+        "file": "book_II_chapter_I_b.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "I_c",
+        "chapter_name": "The Malthusian theory, its genesis and support",
+        "file": "book_II_chapter_I_c.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "I_d",
+        "chapter_name": "The Malthusian theory, its genesis and support",
+        "file": "book_II_chapter_I_d.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "I_e",
+        "chapter_name": "The Malthusian theory, its genesis and support",
+        "file": "book_II_chapter_I_e.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "I_f",
+        "chapter_name": "The Malthusian theory, its genesis and support",
+        "file": "book_II_chapter_I_f.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_a",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_a.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_b",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_b.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_c",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_c.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_d",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_d.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_e",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_e.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_f",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_f.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_g",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_g.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_h",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_h.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_i",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_i.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_j",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_j.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_k",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_k.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "II_l",
+        "chapter_name": "Inferences from facts",
+        "file": "book_II_chapter_II_l.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "III_a",
+        "chapter_name": "Inferences from analogy",
+        "file": "book_II_chapter_III_a.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "III_b",
+        "chapter_name": "Inferences from analogy",
+        "file": "book_II_chapter_III_b.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "III_c",
+        "chapter_name": "Inferences from analogy",
+        "file": "book_II_chapter_III_c.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "III_d",
+        "chapter_name": "Inferences from analogy",
+        "file": "book_II_chapter_III_d.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "III_e",
+        "chapter_name": "Inferences from analogy",
+        "file": "book_II_chapter_III_e.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "IV_a",
+        "chapter_name": "Disproof of the Malthusian theory",
+        "file": "book_II_chapter_IV_a.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "IV_b",
+        "chapter_name": "Disproof of the Malthusian theory",
+        "file": "book_II_chapter_IV_b.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "IV_c",
+        "chapter_name": "Disproof of the Malthusian theory",
+        "file": "book_II_chapter_IV_c.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "IV_d",
+        "chapter_name": "Disproof of the Malthusian theory",
+        "file": "book_II_chapter_IV_d.txt"
+    },
+    {
+        "book": "II",
+        "book_name": "POPULATION AND SUBSISTENCE",
+        "chapter": "IV_e",
+        "chapter_name": "Disproof of the Malthusian theory",
+        "file": "book_II_chapter_IV_e.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "I_a",
+        "chapter_name": "The inquiry narrowed to the laws of distribution\u2014necessary relation of these laws",
+        "file": "book_III_chapter_I_a.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "I_b",
+        "chapter_name": "The inquiry narrowed to the laws of distribution\u2014necessary relation of these laws",
+        "file": "book_III_chapter_I_b.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "I_c",
+        "chapter_name": "The inquiry narrowed to the laws of distribution\u2014necessary relation of these laws",
+        "file": "book_III_chapter_I_c.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "I_d",
+        "chapter_name": "The inquiry narrowed to the laws of distribution\u2014necessary relation of these laws",
+        "file": "book_III_chapter_I_d.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "I_e",
+        "chapter_name": "The inquiry narrowed to the laws of distribution\u2014necessary relation of these laws",
+        "file": "book_III_chapter_I_e.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "II_a",
+        "chapter_name": "Rent and the law of rent",
+        "file": "book_III_chapter_II_a.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "II_b",
+        "chapter_name": "Rent and the law of rent",
+        "file": "book_III_chapter_II_b.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "II_c",
+        "chapter_name": "Rent and the law of rent",
+        "file": "book_III_chapter_II_c.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "II_d",
+        "chapter_name": "Rent and the law of rent",
+        "file": "book_III_chapter_II_d.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "III_a",
+        "chapter_name": "Interest and the cause of interest",
+        "file": "book_III_chapter_III_a.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "III_b",
+        "chapter_name": "Interest and the cause of interest",
+        "file": "book_III_chapter_III_b.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "III_c",
+        "chapter_name": "Interest and the cause of interest",
+        "file": "book_III_chapter_III_c.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "III_d",
+        "chapter_name": "Interest and the cause of interest",
+        "file": "book_III_chapter_III_d.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "III_e",
+        "chapter_name": "Interest and the cause of interest",
+        "file": "book_III_chapter_III_e.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "III_f",
+        "chapter_name": "Interest and the cause of interest",
+        "file": "book_III_chapter_III_f.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "III_g",
+        "chapter_name": "Interest and the cause of interest",
+        "file": "book_III_chapter_III_g.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "IV_a",
+        "chapter_name": "Of spurious capital and of profits often mistaken for interest",
+        "file": "book_III_chapter_IV_a.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "IV_b",
+        "chapter_name": "Of spurious capital and of profits often mistaken for interest",
+        "file": "book_III_chapter_IV_b.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "IV_c",
+        "chapter_name": "Of spurious capital and of profits often mistaken for interest",
+        "file": "book_III_chapter_IV_c.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "V_a",
+        "chapter_name": "The law of interest",
+        "file": "book_III_chapter_V_a.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "V_b",
+        "chapter_name": "The law of interest",
+        "file": "book_III_chapter_V_b.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "V_c",
+        "chapter_name": "The law of interest",
+        "file": "book_III_chapter_V_c.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "V_d",
+        "chapter_name": "The law of interest",
+        "file": "book_III_chapter_V_d.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "VI_a",
+        "chapter_name": "Wages and the law of wages",
+        "file": "book_III_chapter_VI_a.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "VI_b",
+        "chapter_name": "Wages and the law of wages",
+        "file": "book_III_chapter_VI_b.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "VI_c",
+        "chapter_name": "Wages and the law of wages",
+        "file": "book_III_chapter_VI_c.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "VI_d",
+        "chapter_name": "Wages and the law of wages",
+        "file": "book_III_chapter_VI_d.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "VI_e",
+        "chapter_name": "Wages and the law of wages",
+        "file": "book_III_chapter_VI_e.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "VI_f",
+        "chapter_name": "Wages and the law of wages",
+        "file": "book_III_chapter_VI_f.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "VII",
+        "chapter_name": "Correlation and co-ordination of these laws",
+        "file": "book_III_chapter_VII.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "VIII_a",
+        "chapter_name": "The statics of the problem thus explained",
+        "file": "book_III_chapter_VIII_a.txt"
+    },
+    {
+        "book": "III",
+        "book_name": "THE LAWS OF DISTRIBUTION",
+        "chapter": "VIII_b",
+        "chapter_name": "The statics of the problem thus explained",
+        "file": "book_III_chapter_VIII_b.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "I",
+        "chapter_name": "The dynamics of the problem yet to seek",
+        "file": "book_IV_chapter_I.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "II_a",
+        "chapter_name": "Effect of increase of population upon the distribution of wealth",
+        "file": "book_IV_chapter_II_a.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "II_b",
+        "chapter_name": "Effect of increase of population upon the distribution of wealth",
+        "file": "book_IV_chapter_II_b.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "II_c",
+        "chapter_name": "Effect of increase of population upon the distribution of wealth",
+        "file": "book_IV_chapter_II_c.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "II_d",
+        "chapter_name": "Effect of increase of population upon the distribution of wealth",
+        "file": "book_IV_chapter_II_d.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "II_e",
+        "chapter_name": "Effect of increase of population upon the distribution of wealth",
+        "file": "book_IV_chapter_II_e.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "II_f",
+        "chapter_name": "Effect of increase of population upon the distribution of wealth",
+        "file": "book_IV_chapter_II_f.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "III_a",
+        "chapter_name": "Effect of improvements in the arts upon the distribution of wealth",
+        "file": "book_IV_chapter_III_a.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "III_b",
+        "chapter_name": "Effect of improvements in the arts upon the distribution of wealth",
+        "file": "book_IV_chapter_III_b.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "III_c",
+        "chapter_name": "Effect of improvements in the arts upon the distribution of wealth",
+        "file": "book_IV_chapter_III_c.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "III_d",
+        "chapter_name": "Effect of improvements in the arts upon the distribution of wealth",
+        "file": "book_IV_chapter_III_d.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "III_e",
+        "chapter_name": "Effect of improvements in the arts upon the distribution of wealth",
+        "file": "book_IV_chapter_III_e.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "IV_a",
+        "chapter_name": "Effect of the expectation raised by material progress",
+        "file": "book_IV_chapter_IV_a.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "IV_b",
+        "chapter_name": "Effect of the expectation raised by material progress",
+        "file": "book_IV_chapter_IV_b.txt"
+    },
+    {
+        "book": "IV",
+        "book_name": "EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH",
+        "chapter": "IV_c",
+        "chapter_name": "Effect of the expectation raised by material progress",
+        "file": "book_IV_chapter_IV_c.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "I_a",
+        "chapter_name": "The primary cause of recurring paroxysms of industrial depression",
+        "file": "book_V_chapter_I_a.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "I_b",
+        "chapter_name": "The primary cause of recurring paroxysms of industrial depression",
+        "file": "book_V_chapter_I_b.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "I_c",
+        "chapter_name": "The primary cause of recurring paroxysms of industrial depression",
+        "file": "book_V_chapter_I_c.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "I_d",
+        "chapter_name": "The primary cause of recurring paroxysms of industrial depression",
+        "file": "book_V_chapter_I_d.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "I_e",
+        "chapter_name": "The primary cause of recurring paroxysms of industrial depression",
+        "file": "book_V_chapter_I_e.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "I_f",
+        "chapter_name": "The primary cause of recurring paroxysms of industrial depression",
+        "file": "book_V_chapter_I_f.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "I_g",
+        "chapter_name": "The primary cause of recurring paroxysms of industrial depression",
+        "file": "book_V_chapter_I_g.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "I_h",
+        "chapter_name": "The primary cause of recurring paroxysms of industrial depression",
+        "file": "book_V_chapter_I_h.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "II_a",
+        "chapter_name": "The persistence of poverty amid advancing wealth",
+        "file": "book_V_chapter_II_a.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "II_b",
+        "chapter_name": "The persistence of poverty amid advancing wealth",
+        "file": "book_V_chapter_II_b.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "II_c",
+        "chapter_name": "The persistence of poverty amid advancing wealth",
+        "file": "book_V_chapter_II_c.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "II_d",
+        "chapter_name": "The persistence of poverty amid advancing wealth",
+        "file": "book_V_chapter_II_d.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "II_e",
+        "chapter_name": "The persistence of poverty amid advancing wealth",
+        "file": "book_V_chapter_II_e.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "II_f",
+        "chapter_name": "The persistence of poverty amid advancing wealth",
+        "file": "book_V_chapter_II_f.txt"
+    },
+    {
+        "book": "V",
+        "book_name": "THE PROBLEM SOLVED",
+        "chapter": "II_g",
+        "chapter_name": "The persistence of poverty amid advancing wealth",
+        "file": "book_V_chapter_II_g.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_a",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_a.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_b",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_b.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_c",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_c.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_d",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_d.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_e",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_e.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_f",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_f.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_g",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_g.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_h",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_h.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_i",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_i.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_j",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_j.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_k",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_k.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "I_l",
+        "chapter_name": "Insufficiency of remedies currently advocated",
+        "file": "book_VI_chapter_I_l.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "II_a",
+        "chapter_name": "The true remedy",
+        "file": "book_VI_chapter_II_a.txt"
+    },
+    {
+        "book": "VI",
+        "book_name": "THE REMEDY",
+        "chapter": "II_b",
+        "chapter_name": "The true remedy",
+        "file": "book_VI_chapter_II_b.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "I_a",
+        "chapter_name": "Injustice of private property in land",
+        "file": "book_VII_chapter_I_a.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "I_b",
+        "chapter_name": "Injustice of private property in land",
+        "file": "book_VII_chapter_I_b.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "I_c",
+        "chapter_name": "Injustice of private property in land",
+        "file": "book_VII_chapter_I_c.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "I_d",
+        "chapter_name": "Injustice of private property in land",
+        "file": "book_VII_chapter_I_d.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "I_e",
+        "chapter_name": "Injustice of private property in land",
+        "file": "book_VII_chapter_I_e.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "I_f",
+        "chapter_name": "Injustice of private property in land",
+        "file": "book_VII_chapter_I_f.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "II_a",
+        "chapter_name": "Enslavement of laborers the ultimate result of private property in land",
+        "file": "book_VII_chapter_II_a.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "II_b",
+        "chapter_name": "Enslavement of laborers the ultimate result of private property in land",
+        "file": "book_VII_chapter_II_b.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "II_c",
+        "chapter_name": "Enslavement of laborers the ultimate result of private property in land",
+        "file": "book_VII_chapter_II_c.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "II_d",
+        "chapter_name": "Enslavement of laborers the ultimate result of private property in land",
+        "file": "book_VII_chapter_II_d.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "II_e",
+        "chapter_name": "Enslavement of laborers the ultimate result of private property in land",
+        "file": "book_VII_chapter_II_e.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "III_a",
+        "chapter_name": "Claim of land owners to compensation",
+        "file": "book_VII_chapter_III_a.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "III_b",
+        "chapter_name": "Claim of land owners to compensation",
+        "file": "book_VII_chapter_III_b.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "III_c",
+        "chapter_name": "Claim of land owners to compensation",
+        "file": "book_VII_chapter_III_c.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "III_d",
+        "chapter_name": "Claim of land owners to compensation",
+        "file": "book_VII_chapter_III_d.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "III_e",
+        "chapter_name": "Claim of land owners to compensation",
+        "file": "book_VII_chapter_III_e.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "IV_a",
+        "chapter_name": "Property in land historically considered",
+        "file": "book_VII_chapter_IV_a.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "IV_b",
+        "chapter_name": "Property in land historically considered",
+        "file": "book_VII_chapter_IV_b.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "IV_c",
+        "chapter_name": "Property in land historically considered",
+        "file": "book_VII_chapter_IV_c.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "IV_d",
+        "chapter_name": "Property in land historically considered",
+        "file": "book_VII_chapter_IV_d.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "IV_e",
+        "chapter_name": "Property in land historically considered",
+        "file": "book_VII_chapter_IV_e.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "IV_f",
+        "chapter_name": "Property in land historically considered",
+        "file": "book_VII_chapter_IV_f.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "IV_g",
+        "chapter_name": "Property in land historically considered",
+        "file": "book_VII_chapter_IV_g.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "V_a",
+        "chapter_name": "Property in land in the United States",
+        "file": "book_VII_chapter_V_a.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "V_b",
+        "chapter_name": "Property in land in the United States",
+        "file": "book_VII_chapter_V_b.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "V_c",
+        "chapter_name": "Property in land in the United States",
+        "file": "book_VII_chapter_V_c.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "V_d",
+        "chapter_name": "Property in land in the United States",
+        "file": "book_VII_chapter_V_d.txt"
+    },
+    {
+        "book": "VII",
+        "book_name": "JUSTICE OF THE REMEDY",
+        "chapter": "V_e",
+        "chapter_name": "Property in land in the United States",
+        "file": "book_VII_chapter_V_e.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "I_a",
+        "chapter_name": "Private property in land inconsistent with the best use of land",
+        "file": "book_VIII_chapter_I_a.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "I_b",
+        "chapter_name": "Private property in land inconsistent with the best use of land",
+        "file": "book_VIII_chapter_I_b.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "I_c",
+        "chapter_name": "Private property in land inconsistent with the best use of land",
+        "file": "book_VIII_chapter_I_c.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "II_a",
+        "chapter_name": "How equal rights to the land may be asserted and secured",
+        "file": "book_VIII_chapter_II_a.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "II_b",
+        "chapter_name": "How equal rights to the land may be asserted and secured",
+        "file": "book_VIII_chapter_II_b.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "II_c",
+        "chapter_name": "How equal rights to the land may be asserted and secured",
+        "file": "book_VIII_chapter_II_c.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "III_a",
+        "chapter_name": "The proposition tried by the canons of taxation",
+        "file": "book_VIII_chapter_III_a.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "III_b",
+        "chapter_name": "The proposition tried by the canons of taxation",
+        "file": "book_VIII_chapter_III_b.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "III_c",
+        "chapter_name": "The proposition tried by the canons of taxation",
+        "file": "book_VIII_chapter_III_c.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "III_d",
+        "chapter_name": "The proposition tried by the canons of taxation",
+        "file": "book_VIII_chapter_III_d.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "III_e",
+        "chapter_name": "The proposition tried by the canons of taxation",
+        "file": "book_VIII_chapter_III_e.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "III_f",
+        "chapter_name": "The proposition tried by the canons of taxation",
+        "file": "book_VIII_chapter_III_f.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "IV_a",
+        "chapter_name": "Indorsements and objections",
+        "file": "book_VIII_chapter_IV_a.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "IV_b",
+        "chapter_name": "Indorsements and objections",
+        "file": "book_VIII_chapter_IV_b.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "IV_c",
+        "chapter_name": "Indorsements and objections",
+        "file": "book_VIII_chapter_IV_c.txt"
+    },
+    {
+        "book": "VIII",
+        "book_name": "APPLICATION OF THE REMEDY",
+        "chapter": "IV_d",
+        "chapter_name": "Indorsements and objections",
+        "file": "book_VIII_chapter_IV_d.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "I_a",
+        "chapter_name": "Of the effect upon the production of wealth",
+        "file": "book_IX_chapter_I_a.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "I_b",
+        "chapter_name": "Of the effect upon the production of wealth",
+        "file": "book_IX_chapter_I_b.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "I_c",
+        "chapter_name": "Of the effect upon the production of wealth",
+        "file": "book_IX_chapter_I_c.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "II_a",
+        "chapter_name": "Of the effect upon distribution and thence upon production",
+        "file": "book_IX_chapter_II_a.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "II_b",
+        "chapter_name": "Of the effect upon distribution and thence upon production",
+        "file": "book_IX_chapter_II_b.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "II_c",
+        "chapter_name": "Of the effect upon distribution and thence upon production",
+        "file": "book_IX_chapter_II_c.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "III_a",
+        "chapter_name": "Of the effect upon individuals and classes",
+        "file": "book_IX_chapter_III_a.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "III_b",
+        "chapter_name": "Of the effect upon individuals and classes",
+        "file": "book_IX_chapter_III_b.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "III_c",
+        "chapter_name": "Of the effect upon individuals and classes",
+        "file": "book_IX_chapter_III_c.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "IV_a",
+        "chapter_name": "Of the changes that would be wrought in social organization and social life",
+        "file": "book_IX_chapter_IV_a.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "IV_b",
+        "chapter_name": "Of the changes that would be wrought in social organization and social life",
+        "file": "book_IX_chapter_IV_b.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "IV_c",
+        "chapter_name": "Of the changes that would be wrought in social organization and social life",
+        "file": "book_IX_chapter_IV_c.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "IV_d",
+        "chapter_name": "Of the changes that would be wrought in social organization and social life",
+        "file": "book_IX_chapter_IV_d.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "IV_e",
+        "chapter_name": "Of the changes that would be wrought in social organization and social life",
+        "file": "book_IX_chapter_IV_e.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "IV_f",
+        "chapter_name": "Of the changes that would be wrought in social organization and social life",
+        "file": "book_IX_chapter_IV_f.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "IV_g",
+        "chapter_name": "Of the changes that would be wrought in social organization and social life",
+        "file": "book_IX_chapter_IV_g.txt"
+    },
+    {
+        "book": "IX",
+        "book_name": "EFFECTS OF THE REMEDY",
+        "chapter": "IV_h",
+        "chapter_name": "Of the changes that would be wrought in social organization and social life",
+        "file": "book_IX_chapter_IV_h.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "I_a",
+        "chapter_name": "The current theory of human progress\u2014its insufficiency",
+        "file": "book_X_chapter_I_a.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "I_b",
+        "chapter_name": "The current theory of human progress\u2014its insufficiency",
+        "file": "book_X_chapter_I_b.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "I_c",
+        "chapter_name": "The current theory of human progress\u2014its insufficiency",
+        "file": "book_X_chapter_I_c.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "I_d",
+        "chapter_name": "The current theory of human progress\u2014its insufficiency",
+        "file": "book_X_chapter_I_d.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "I_e",
+        "chapter_name": "The current theory of human progress\u2014its insufficiency",
+        "file": "book_X_chapter_I_e.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "I_f",
+        "chapter_name": "The current theory of human progress\u2014its insufficiency",
+        "file": "book_X_chapter_I_f.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "II_a",
+        "chapter_name": "Differences in civilization\u2014to what due",
+        "file": "book_X_chapter_II_a.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "II_b",
+        "chapter_name": "Differences in civilization\u2014to what due",
+        "file": "book_X_chapter_II_b.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "II_c",
+        "chapter_name": "Differences in civilization\u2014to what due",
+        "file": "book_X_chapter_II_c.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "II_d",
+        "chapter_name": "Differences in civilization\u2014to what due",
+        "file": "book_X_chapter_II_d.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "II_e",
+        "chapter_name": "Differences in civilization\u2014to what due",
+        "file": "book_X_chapter_II_e.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "II_f",
+        "chapter_name": "Differences in civilization\u2014to what due",
+        "file": "book_X_chapter_II_f.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "II_g",
+        "chapter_name": "Differences in civilization\u2014to what due",
+        "file": "book_X_chapter_II_g.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "III_a",
+        "chapter_name": "The law of human progress",
+        "file": "book_X_chapter_III_a.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "III_b",
+        "chapter_name": "The law of human progress",
+        "file": "book_X_chapter_III_b.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "III_c",
+        "chapter_name": "The law of human progress",
+        "file": "book_X_chapter_III_c.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "III_d",
+        "chapter_name": "The law of human progress",
+        "file": "book_X_chapter_III_d.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "III_e",
+        "chapter_name": "The law of human progress",
+        "file": "book_X_chapter_III_e.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "III_f",
+        "chapter_name": "The law of human progress",
+        "file": "book_X_chapter_III_f.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "III_g",
+        "chapter_name": "The law of human progress",
+        "file": "book_X_chapter_III_g.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "III_h",
+        "chapter_name": "The law of human progress",
+        "file": "book_X_chapter_III_h.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "III_i",
+        "chapter_name": "The law of human progress",
+        "file": "book_X_chapter_III_i.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "IV_a",
+        "chapter_name": "How modern civilization may decline",
+        "file": "book_X_chapter_IV_a.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "IV_b",
+        "chapter_name": "How modern civilization may decline",
+        "file": "book_X_chapter_IV_b.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "IV_c",
+        "chapter_name": "How modern civilization may decline",
+        "file": "book_X_chapter_IV_c.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "IV_d",
+        "chapter_name": "How modern civilization may decline",
+        "file": "book_X_chapter_IV_d.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "IV_e",
+        "chapter_name": "How modern civilization may decline",
+        "file": "book_X_chapter_IV_e.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "IV_f",
+        "chapter_name": "How modern civilization may decline",
+        "file": "book_X_chapter_IV_f.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "IV_g",
+        "chapter_name": "How modern civilization may decline",
+        "file": "book_X_chapter_IV_g.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "V_a",
+        "chapter_name": "The central truth",
+        "file": "book_X_chapter_V_a.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "V_b",
+        "chapter_name": "The central truth",
+        "file": "book_X_chapter_V_b.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "V_c",
+        "chapter_name": "The central truth",
+        "file": "book_X_chapter_V_c.txt"
+    },
+    {
+        "book": "X",
+        "book_name": "THE LAW OF HUMAN PROGRESS",
+        "chapter": "V_d",
+        "chapter_name": "The central truth",
+        "file": "book_X_chapter_V_d.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_a",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_a.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_b",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_b.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_c",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_c.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_d",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_d.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_e",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_e.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_f",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_f.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_g",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_g.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_h",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_h.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_i",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_i.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_j",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_j.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_k",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_k.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_l",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_l.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_m",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_m.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_n",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_n.txt"
+    },
+    {
+        "book": "CONCLUSION",
+        "book_name": "CONCLUSION",
+        "chapter": "I_o",
+        "chapter_name": "The problem of individual life",
+        "file": "book_CONCLUSION_chapter_I_o.txt"
+    }
+]
