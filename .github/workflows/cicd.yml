@@ -24,7 +24,7 @@ jobs:
 
       - name: Build Docker image (CI)
         run: |
-          docker build -t iris-mlflow-fastapi-ci .
+          docker build -t rag-demo-ai-search .
 
   # -----------------------------------------------------
   # 🟣 CD JOB — Push to Docker Hub
