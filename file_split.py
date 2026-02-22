@@ -14,6 +14,7 @@ def num_tokens_from_string(string: str) -> int:
     return num_tokens
 
 
+
 def split_content_into_chunks(content: str, max_tokens: int) -> list:
     """
     Splits the content into smaller chunks, each with a maximum of `max_tokens` tokens.
