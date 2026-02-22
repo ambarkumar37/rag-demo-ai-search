@@ -18,12 +18,12 @@ search_index_name = "progress-poverty-index"
 # delete index if it exists
 # delete_index_if_exists(search_index_name)
 
-# # STEP 1 -  Split the chapters and save them to files
+# STEP 1 -  Split the chapters and save them to files
 # print("Splitting chapters...")
 # split_chapters(input_file, output_text_chunks_directory, table_content.chapters)
 # os.makedirs(output_vector_chunks_directory, exist_ok=True)
 
-# # STEP 2 Create the chapters from the JSON file
+# STEP 2 Create the chapters from the JSON file
 # with open("chapters.json", "r") as f:
 #     chapters = json.load(f)
 # # Process each chapter and save the chunk object to a JSON file
@@ -38,10 +38,10 @@ search_index_name = "progress-poverty-index"
 #     with open(f'{output_vector_chunks_directory}/{file_name}.json', 'w') as f:
 #         json.dump(chunk, f, indent=4)
 
-# # STEP 3 - Create the search index
-# print("Creating search index...")
-# create_search_index(search_index_name)
-# print(f"Search index '{search_index_name}' created.")
+# STEP 3 - Create the search index
+print("Creating search index...")
+create_search_index(search_index_name)
+print(f"Search index '{search_index_name}' created.")
 
 # STEP 4 - Upload the chunks to the search index
 print("Uploading chunks to search index...")

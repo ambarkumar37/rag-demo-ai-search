@@ -1,0 +1,59 @@
+name: Docker CI-CD
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+
+  # -----------------------------------------------------
+  # 🔵 CI JOB — Build Only
+  # -----------------------------------------------------
+  build_CI:
+    name: build_CI
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build Docker image (CI)
+        run: |
+          docker build -t iris-mlflow-fastapi-ci .
+
+  # -----------------------------------------------------
+  # 🟣 CD JOB — Push to Docker Hub
+  # -----------------------------------------------------
+  build_CD:
+    name: build_CD
+    runs-on: ubuntu-latest
+
+    needs: build_CI     # CD runs only after CI success
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Login to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Build & Push Image to Docker Hub
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile
+          push: true
+          tags: |
+            ambarkumar37/rag-demo-ai-search:latest
+            ambarkumar37/rag-demo-ai-search:${{ github.sha }}

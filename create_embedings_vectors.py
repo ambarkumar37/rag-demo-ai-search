@@ -1,38 +1,71 @@
+import sys
+import os
+
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+
+from config import *
+
 import uuid
 import os
 from dotenv import load_dotenv
 
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.inference import EmbeddingsClient
+from config import *
+from openai import AzureOpenAI
+# load_dotenv("./.env", override=True)
 
-load_dotenv("./.env", override=True)
+# api_key = os.getenv("EMBEDDINGS_MODEL_KEY")
+# endpoint = os.getenv("AZURE_AI_ENDPOINT_EMBEDDINGS")
+# embeddings_model_deployment = os.getenv("EMBEDDINGS_MODEL_DEPLOYMENT")
 
-api_key = os.getenv("EMBEDDINGS_MODEL_KEY")
-endpoint = os.getenv("AZURE_AI_ENDPOINT_EMBEDDINGS")
-embeddings_model_deployment = os.getenv("EMBEDDINGS_MODEL_DEPLOYMENT")
 
+# def get_client():
+
+#     client = EmbeddingsClient(
+#         endpoint=endpoint,
+#         credential=AzureKeyCredential(api_key)
+#     )
+#     return client
 
 def get_client():
 
-    client = EmbeddingsClient(
-        endpoint=endpoint,
-        credential=AzureKeyCredential(api_key)
+    client = AzureOpenAI(
+    api_version=api_version,
+    azure_endpoint=AI_FOUNDRY_AI_SERVICES_URL,
+    api_key=AI_FOUNDRY_KEY,
     )
     return client
 
+# def get_embeddings_vector(text):
+
+#     response = get_client().embed(
+#     input=text,
+#     model=embeddings_model_deployment
+#     )
+
+#     embedding = response.data[0].embedding
+
+#     return embedding
+
+
 def get_embeddings_vector(text):
 
-    response = get_client().embed(
+    response = get_client().embeddings.create(
     input=text,
-    model=embeddings_model_deployment
+    model=FOUNDRY_EMBEDDING_DEPLOYMENT_NAME
     )
+    for item in response.data:
+        embedding=item.embedding
+        #print(item.embedding)
+        #print(len(item.embedding))
 
-    embedding = response.data[0].embedding
+    print(response.usage)
 
     return embedding
 
 def get_chunk_object(chapter:dict, input_directory)-> dict:
-    with open(f"{input_directory}/{chapter['file']}", "r") as f:
+    with open(f"{input_directory}/{chapter['file']}", "r",encoding="utf-8") as f:
         chunk_content = f.read()
         vector = get_embeddings_vector(chunk_content)
 

@@ -19,11 +19,14 @@ from azure.search.documents.indexes.models import (
     SemanticSearch,
     SemanticField
 )
+from config import *
+# load_dotenv("./.env", override=True)
 
-load_dotenv("./.env", override=True)
+# api_key = os.getenv("AI_SEARCH_KEY")
+# endpoint = os.getenv("AI_SEARCH_ENDPOINT")
 
-api_key = os.getenv("AI_SEARCH_KEY")
-endpoint = os.getenv("AI_SEARCH_ENDPOINT")
+api_key = AZURE_SEARCH_API_KEY
+endpoint = AZURE_SEARCH_ENDPOINT
 
 
 credential = AzureKeyCredential(api_key)
@@ -58,7 +61,7 @@ def create_search_index(search_index_name):
         SearchableField(name="chunk_content", type=SearchFieldDataType.String),
         SearchField(name="vector", type=SearchFieldDataType.Collection(SearchFieldDataType.Single),
             searchable=True,
-            vector_search_dimensions=3072, 
+            vector_search_dimensions=1536, 
             vector_search_profile_name="myHnswProfile",
         ),
     ]
